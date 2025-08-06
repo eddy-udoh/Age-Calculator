@@ -45,11 +45,42 @@ Age-Calculator/
 ├── style.css      # Glassmorphism-inspired styling
 └── script.js      # Core age calculation logic
 
----
+Installation
+Clone this repository:
 
-## Installation
+bash
+Copy
+Edit
+git clone https://github.com/eddy-udoh/Age-Calculator.git
+Navigate into the project folder:
 
-1. **Clone this repository:**
+bash
+Copy
+Edit
+cd Age-Calculator
+Open index.html in your browser to use the Age Calculator.
+
+Usage
+Select or enter your date of birth.
+
+Click Calculate.
+
+Instantly see your age in years, months, and days.
+
+Contributing
+Contributions are welcome!
+Fork the repo, create a branch, and submit a pull request to suggest improvements.
+
+License
+This project is licensed under the MIT License.
+Feel free to use, modify, and share with attribution.
+
+“Knowledge is power—even if it tells you you’re no longer 18!”
+
+yaml
+Copy
+Edit
+
 
 ```bash
 git clone https://github.com/eddy-udoh/Age-Calculator.git
