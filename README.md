@@ -45,6 +45,8 @@ Age-Calculator/
 ├── style.css      # Glassmorphism-inspired styling
 └── script.js      # Core age calculation logic
 
+---
+
 ## Installation
 
 1. **Clone this repository:**
